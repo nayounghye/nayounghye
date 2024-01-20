@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86E3CE,10:DDE6A5,30:FFDD94,75:FA897B,100:CCABD8&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFDD94&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+younghye+Na" alt="Typing SVG" /></a>
 
-### Hi there 👋
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayounghye&layout=compact&theme=tokyonight&hide_border=true&bg_color=43655F&title_color=FFDD94&text_color=38bdae)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayounghye&show_icons=true&theme=tokyonight&hide_border=true&bg_color=43655F&title_color=FFDD94)

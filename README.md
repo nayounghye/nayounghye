@@ -3,7 +3,7 @@
 
 <!--손흔드는 아이콘-->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" />
-<br />
+
 <br />
 <!--타이핑 애니메이션-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFDD94&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+younghye+Na" alt="Typing SVG" /></a>

@@ -58,6 +58,5 @@ Here are some ideas to get you started:
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="50">
 
 <br />
-<br />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:86E3CE,10:DDE6A5,30:FFDD94,75:FA897B,100:CCABD8&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>

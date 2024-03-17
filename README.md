@@ -56,7 +56,8 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
 <!-- express 로고 -->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="50">
-
+<!-- JAVA 로고 -->
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="50">
 <br />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:86E3CE,10:DDE6A5,30:FFDD94,75:FA897B,100:CCABD8&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>

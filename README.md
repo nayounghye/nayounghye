@@ -7,8 +7,6 @@
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="60" height="60" />-->
 <!--우주선 아이콘-->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="60" height="60" />
 <br />
 <!--타이핑 애니메이션-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFDD94&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+younghye+Na" alt="Typing SVG" /></a>
@@ -20,13 +18,13 @@
 -->
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayounghye&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=FFDD94&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayounghye&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=6060c4&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayounghye&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFDD94&text_color=fff&title_color=FFDD94&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayounghye&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFDD94&text_color=fff&title_color=6060c4&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayounghye&theme=react-dark&bg_color=20232a&hide_border=true&line=FFDD94&color=FFDD94" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayounghye&theme=react-dark&bg_color=20232a&hide_border=true&line=FFDD94&color=6060c4" width=94%/>
 </a>
 <br />
 <br />

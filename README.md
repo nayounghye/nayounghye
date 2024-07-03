@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br />
-
 <!-- html 로고 -->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="50">
 <!-- css 로고 -->
@@ -63,7 +61,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="50">
 <!-- JAVA 로고 -->
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="50">
-<br />
+<br /><br />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:86E3CE,10:DDE6A5,30:FFDD94,75:FA897B,100:CCABD8&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 <div></div>
